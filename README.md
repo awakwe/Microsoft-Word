@@ -235,6 +235,6 @@ During the virtual lecture, we will use active learning strategies to engage wit
 
 By the end of this module, you should have a strong foundation in Algebra 1 and be able to apply your knowledge to solve real-world problems.
 
-[preview-lia](https://raw.githubusercontent.com/awakwe/Algebra-1/main/README.md)
+[preview-lia](https://raw.githubusercontent.com/awakwe/Microsoft-Word/main/README.md)
 
-[Preview-Lia](https://liascript.github.io/course/?https://raw.githubusercontent.com/awakwe/Algebra-1/main/README.md)
+[Preview-Lia](https://liascript.github.io/course/?https://raw.githubusercontent.com/awakwe/Microsoft-Word/main/README.md)
