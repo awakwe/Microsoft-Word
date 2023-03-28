@@ -81,6 +81,46 @@ comment:  This document is a simple LiaScript course example.
     ### A. Summary of Microsoft Word's capabilities
     ### B. Importance of staying up-to-date with new features
     ### C. Resources for further learning and support
+    
+    
+## Microsoft Excel: Hiding Columns, Selecting & Filtering Data, and Saving Files
+
+### 1. Hiding Columns
+
+To hide columns in Excel, follow these steps:
+
+1. Select the column(s) you want to hide by clicking on the column header(s). To select multiple columns, hold down the `Ctrl` key while clicking the column headers.
+2. Right-click on the selected column header(s).
+3. Choose "Hide" from the context menu.
+
+The selected column(s) will be hidden from view.
+
+### 2. Selecting and Filtering Data
+
+To select and filter data in Excel, follow these steps:
+
+1. Click on any cell within the data range you want to filter.
+2. Go to the "Data" tab in the Ribbon.
+3. Click the "Filter" button. This will add filter drop-down arrows to the header row of your data range.
+4. Click the drop-down arrow in the header of the column you want to filter.
+5. Choose the filter criteria by selecting or deselecting the checkboxes for the values you want to show or hide. You can also use the "Number Filters" or "Text Filters" options for more advanced filtering options.
+6. Click "OK" to apply the filter.
+
+The data in your worksheet will be filtered based on your selected criteria.
+
+### 3. Saving Files
+
+To save a file in Excel, follow these steps:
+
+1. Go to the "File" tab in the Ribbon.
+2. Click "Save As" to choose a location and file format for your workbook. If you have already saved the file and want to save the changes, you can simply click "Save" instead.
+3. Choose the folder where you want to save your file.
+4. Enter a file name in the "File name" box.
+5. Select a file format from the "Save as type" drop-down list, such as "Excel Workbook (*.xlsx)" for the most recent Excel format, or "Excel 97-2003 Workbook (*.xls)" for an older version.
+6. Click "Save" to save your file.
+
+Your Excel file will be saved in the chosen location with the specified file name and format.
+
 
 ## Microsoft 365 Online FAQ:
 
