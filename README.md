@@ -53,7 +53,7 @@ Microsoft Excel is a spreadsheet application used for data analysis, calculation
 - **Formatting cells**: Use the "Home" tab to format cells, including number formats, font, alignment, and cell styles.
 - **Charts**: Select your data and click "Insert" > "Charts" to create various types of charts for data visualization.
 
-- **tutorial **: https://www.w3resource.com/excel/index.php
+- **tutorial**: https://www.w3resource.com/excel/index.php
 
 > 📢 **Coming Soon!** We're currently working on providing detailed information for various tutoring subjects. Stay tuned for comprehensive explanations and examples. In the meantime, if you have any specific questions or need assistance, feel free to call, text, or email Tony Tutoring ASAP!
 
