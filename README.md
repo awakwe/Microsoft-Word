@@ -29,6 +29,9 @@ comment:  This document is a simple LiaScript course example.
 ## Introduction <a name="introduction"></a>
 Microsoft 365 is a suite of productivity tools and services designed for individuals, businesses, and organizations. It includes a range of applications such as Word, Excel, PowerPoint, OneNote, Outlook, OneDrive, Teams, SharePoint, and Planner.
 
+> 📢 **Coming Soon!** We're currently working on providing detailed information for various tutoring subjects. Stay tuned for comprehensive explanations and examples. In the meantime, if you have any specific questions or need assistance, feel free to call, text, or email Tony Tutoring ASAP!
+
+
 ## Word <a name="word"></a>
 Microsoft Word is a powerful word processing application used for creating and editing documents.
 
@@ -38,6 +41,9 @@ Microsoft Word is a powerful word processing application used for creating and e
 - **Page layout**: Customize margins, orientation, size, and columns in the "Layout" tab.
 - **Track changes and comments**: Enable "Track Changes" in the "Review" tab to track edits made by multiple collaborators. Add and view comments for discussions.
 
+> 📢 **Coming Soon!** We're currently working on providing detailed information for various tutoring subjects. Stay tuned for comprehensive explanations and examples. In the meantime, if you have any specific questions or need assistance, feel free to call, text, or email Tony Tutoring ASAP!
+
+
 ## Excel <a name="excel"></a>
 Microsoft Excel is a spreadsheet application used for data analysis, calculations, and visualization.
 
@@ -46,6 +52,9 @@ Microsoft Excel is a spreadsheet application used for data analysis, calculation
 - **Formulas**: Use formulas to perform calculations or manipulate data. Start with an equal sign (=) followed by a function name, e.g., "=SUM(A1:A10)".
 - **Formatting cells**: Use the "Home" tab to format cells, including number formats, font, alignment, and cell styles.
 - **Charts**: Select your data and click "Insert" > "Charts" to create various types of charts for data visualization.
+
+> 📢 **Coming Soon!** We're currently working on providing detailed information for various tutoring subjects. Stay tuned for comprehensive explanations and examples. In the meantime, if you have any specific questions or need assistance, feel free to call, text, or email Tony Tutoring ASAP!
+
 
 ### Hiding Columns, Selecting & Filtering Data, and Saving Files
 
@@ -95,6 +104,9 @@ Microsoft PowerPoint is a presentation application used for creating slideshows,
 - **Slide transitions**: Apply slide transitions in the "Transitions" tab to create smooth animations between slides.
 - **Animations**: Add animations to objects using the "Animations" tab to make your presentation more engaging.
 
+> 📢 **Coming Soon!** We're currently working on providing detailed information for various tutoring subjects. Stay tuned for comprehensive explanations and examples. In the meantime, if you have any specific questions or need assistance, feel free to call, text, or email Tony Tutoring ASAP!
+
+
 ## OneNote <a name="onenote"></a>
 Microsoft OneNote is a digital note-taking application that allows you to create, organize, and share notes, including text, images, drawings, and multimedia.
 
@@ -104,6 +116,9 @@ Microsoft OneNote is a digital note-taking application that allows you to create
 - **Inking**: Use the "Draw" tab to draw or write using your mouse, stylus, or touch input.
 - **Tagging**: Add tags to your notes to categorize or prioritize information.
 
+> 📢 **Coming Soon!** We're currently working on providing detailed information for various tutoring subjects. Stay tuned for comprehensive explanations and examples. In the meantime, if you have any specific questions or need assistance, feel free to call, text, or email Tony Tutoring ASAP!
+
+
 ## Outlook <a name="outlook"></a>
 Microsoft Outlook is an email and calendar application that helps you manage your email, calendar, contacts, and tasks.
 
@@ -112,6 +127,9 @@ Microsoft Outlook is an email and calendar application that helps you manage you
 - **Contacts**: Store and manage your contacts, including email addresses, phone numbers, and other information.
 - **Tasks**: Create and track tasks, set due dates, and prioritize your to-do list.
 
+> 📢 **Coming Soon!** We're currently working on providing detailed information for various tutoring subjects. Stay tuned for comprehensive explanations and examples. In the meantime, if you have any specific questions or need assistance, feel free to call, text, or email Tony Tutoring ASAP!
+
+
 ## OneDrive <a name="onedrive"></a>
 Microsoft OneDrive is a cloud storage service that allows you to store, sync, and share files and folders.
 
@@ -119,6 +137,9 @@ Microsoft OneDrive is a cloud storage service that allows you to store, sync, an
 - **Create and edit documents**: Create new Office documents directly in OneDrive or edit existing documents using Office Online.
 - **Share files**: Right-click a file and select "Share" to generate a sharing link or invite people to access the file.
 - **Sync files**: Install the OneDrive desktop app to sync files between your computer and the cloud for offline access.
+
+> 📢 **Coming Soon!** We're currently working on providing detailed information for various tutoring subjects. Stay tuned for comprehensive explanations and examples. In the meantime, if you have any specific questions or need assistance, feel free to call, text, or email Tony Tutoring ASAP!
+
 
 ## Teams <a name="teams"></a>
 Microsoft Teams is a collaboration platform that provides chat, meetings, calling, and file sharing for your organization.
@@ -129,6 +150,9 @@ Microsoft Teams is a collaboration platform that provides chat, meetings, callin
 - **Meetings**: Schedule, join, and manage video or audio meetings with screen sharing and other features.
 - **Integrate apps**: Add apps and services to your teams for improved productivity and collaboration.
 
+> 📢 **Coming Soon!** We're currently working on providing detailed information for various tutoring subjects. Stay tuned for comprehensive explanations and examples. In the meantime, if you have any specific questions or need assistance, feel free to call, text, or email Tony Tutoring ASAP!
+
+
 ## SharePoint <a name="sharepoint"></a>
 Microsoft SharePoint is a collaboration and document management platform that helps organizations share and manage content, knowledge, and applications.
 
@@ -137,6 +161,9 @@ Microsoft SharePoint is a collaboration and document management platform that he
 - **Lists**: Create and manage custom lists to store and organize structured data.
 - **Workflows**: Automate business processes with workflows for approval, review, or other tasks.
 
+> 📢 **Coming Soon!** We're currently working on providing detailed information for various tutoring subjects. Stay tuned for comprehensive explanations and examples. In the meantime, if you have any specific questions or need assistance, feel free to call, text, or email Tony Tutoring ASAP!
+
+
 ## Planner <a name="planner"></a>
 Microsoft Planner is a task management tool that helps teams create plans, organize tasks, and track progress.
 
@@ -144,6 +171,9 @@ Microsoft Planner is a task management tool that helps teams create plans, organ
 - **Tasks**: Create, assign, and organize tasks using boards, lists, or charts.
 - **Due dates and labels**: Set due dates for tasks and categorize them using labels.
 - **Collaboration**: Attach files, share links, or add comments to tasks for better communication.
+
+> 📢 **Coming Soon!** We're currently working on providing detailed information for various tutoring subjects. Stay tuned for comprehensive explanations and examples. In the meantime, if you have any specific questions or need assistance, feel free to call, text, or email Tony Tutoring ASAP!
+
 
 ## Security and Compliance <a name="security-and-compliance"></a>
 Microsoft 365 provides built-in security and compliance features to protect your data and ensure compliance with regulations.
@@ -156,6 +186,8 @@ Microsoft 365 provides built-in security and compliance features to protect your
 - **Advanced Threat Protection (ATP)**: Protect your organization from phishing, malware, and other advanced threats.
 
 This study guide provides an overview of the key features and functionalities of Microsoft 365. Familiarizing yourself with these applications and their capabilities will help you become more productive and efficient in your work or personal projects.```
+
+> 📢 **Coming Soon!** We're currently working on providing detailed information for various tutoring subjects. Stay tuned for comprehensive explanations and examples. In the meantime, if you have any specific questions or need assistance, feel free to call, text, or email Tony Tutoring ASAP!
 
 
 
@@ -202,13 +234,19 @@ This study guide provides an overview of the key features and functionalities of
 
 Throughout the module, there will be quizzes to test your knowledge on the topics we have covered. These quizzes will help you assess your understanding and identify areas where you may need to review.
 
+> 📢 **Coming Soon!** We're currently working on providing detailed information for various tutoring subjects. Stay tuned for comprehensive explanations and examples. In the meantime, if you have any specific questions or need assistance, feel free to call, text, or email Tony Tutoring ASAP!
+
+
 ## Active Learning Strategies
 
 During the virtual lecture, we will use active learning strategies to engage with the material and deepen our understanding. These strategies may include group discussions, problem-solving activities, and interactive simulations.
 
+> 📢 **Coming Soon!** We're currently working on providing detailed information for various tutoring subjects. Stay tuned for comprehensive explanations and examples. In the meantime, if you have any specific questions or need assistance, feel free to call, text, or email Tony Tutoring ASAP!
+
+
 ## Conclusion
 
-By the end of this module, you should have a strong foundation in Algebra 1 and be able to apply your knowledge to solve real-world problems.
+By the end of this module, you should have a strong foundation in Microsoft 365 and be able to apply your knowledge to solve real-world problems.
 
 [preview-lia](https://raw.githubusercontent.com/awakwe/Microsoft-Word/main/README.md)
 
