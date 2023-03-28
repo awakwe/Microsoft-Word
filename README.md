@@ -25,6 +25,7 @@ comment:  This document is a simple LiaScript course example.
 9. [SharePoint](#sharepoint)
 10. [Planner](#planner)
 11. [Security and Compliance](#security-and-compliance)
+12. [FAQ](#FAQ)
 
 ## Introduction <a name="introduction"></a>
 Microsoft 365 is a suite of productivity tools and services designed for individuals, businesses, and organizations. It includes a range of applications such as Word, Excel, PowerPoint, OneNote, Outlook, OneDrive, Teams, SharePoint, and Planner.
@@ -193,7 +194,7 @@ This study guide provides an overview of the key features and functionalities of
 
 
 
-## Microsoft 365 Online FAQ:
+## Microsoft 365 Online FAQ: <a name="FAQ"></a>
 
 1. **How can I access files and folders in Microsoft 365?**
 
