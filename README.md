@@ -82,6 +82,45 @@ comment:  This document is a simple LiaScript course example.
     ### B. Importance of staying up-to-date with new features
     ### C. Resources for further learning and support
 
+## Microsoft 365 Online FAQ:
+
+1. **How can I access files and folders in Microsoft 365?**
+
+   - *Online*: You can access files and folders stored in OneDrive or SharePoint by logging into your Microsoft 365 account at office.com and clicking on the OneDrive or SharePoint app.
+   - *Desktop*: You can access files and folders by using the desktop apps such as Word, Excel, or PowerPoint and opening files from your OneDrive or SharePoint directly or by syncing the files to your local machine using OneDrive for Desktop.
+
+2. **What are the main differences between Microsoft 365 Online and Desktop versions?**
+
+   Microsoft 365 Online is a cloud-based version of the suite, which you can access through a web browser without needing to install any software on your device. The desktop version is a software package that you install on your computer, offering more advanced features and offline access.
+
+3. **How can I handle email attachments in Microsoft 365?**
+
+   You can easily send and receive files as email attachments in Outlook, both online and on the desktop. When you receive an attachment, you can open it directly in the corresponding online or desktop app, save it to your OneDrive, or download it to your computer.
+
+4. **How can I share a file using Microsoft 365?**
+
+   To share a file, you can use the "Share" button in the top-right corner of the application (both online and desktop versions). You can then send a sharing link or invite specific people to access the file. You can also control the permissions (e.g., view only or edit) and set an expiration date for the sharing link.
+
+5. **How do I know if a file is shared?**
+
+   In OneDrive or SharePoint, a shared file will have a "People" icon next to the file name. You can also click on the file and then click on "Manage Access" (online) or "Share" (desktop) to see the list of people who have access to the file.
+
+6. **Can I collaborate on a document in real-time with other users?**
+
+   Yes, both Microsoft 365 Online and Desktop versions support real-time collaboration. When multiple users are working on the same document, their changes will be visible in real-time, and you'll see their cursors and user names to identify who is making the changes.
+
+7. **How can I restore a previous version of a document in Microsoft 365?**
+
+   Microsoft 365 saves versions of your documents automatically. To restore a previous version, open the file, click on "File" > "Info" > "Version History" (desktop) or click on the file name in the top bar and select "Version History" (online). Then, choose the version you want to restore and click "Restore."
+
+8. **How do I set up email rules and filters in Outlook?**
+
+   In Outlook, you can create rules to automatically manage your incoming and outgoing emails. To create a rule, go to "Settings" > "View all Outlook settings" > "Mail" > "Rules" (online) or "File" > "Manage Rules & Alerts" (desktop). Click "Add new rule" and configure the conditions and actions for the rule.
+
+9. **Can I access my Microsoft 365 files offline?**
+
+   Yes, you can access your files offline using the desktop apps and by syncing your OneDrive files to your local machine. To sync files, install the OneDrive for Desktop app and sign in with your Microsoft 365 account. Select the folders you want to sync, and they will be available on your computer even when you're offline.
+
 ## Quizzes
 
 Throughout the module, there will be quizzes to test your knowledge on the topics we have covered. These quizzes will help you assess your understanding and identify areas where you may need to review.
